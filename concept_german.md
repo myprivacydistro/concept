@@ -37,11 +37,30 @@ Leider nein. Beim surfen im Internet hilft das insofern, dass die Internetanbiet
 ## Praktische Umsetzung
 
 ### VPN
+Vor- und Nachteile
 
 ### TOR
+Vor- und Nachteile
 
 ### Surfen
+Qual der Wahl des Browser
 
 ### Passwörter
+Immer das selbe, ähnliche Passwörter, Passwort-Manager
 
 ### Dateien
+Cloud?
+
+### Persönlicher Computer
+#### Betriebssystem
+Auswahl zwischen Apple, Microsoft, Linux
+
+#### Apps
+OpenSource vs. Closed Source
+Sicherheit, Kommunikation, Finanzen, Dokumente, Dienstleistungen, Shopping, Unterhaltung
+
+### Handy
+#### Betriebssystem
+Auswahl zwischen Apple, Google und Android AOSP
+#### Apps
+App Stores, Sicherheit, Kommunikation, Finanzen, Dokumente, Dienstleistungen, Shopping, Unterhaltung
