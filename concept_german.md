@@ -1,5 +1,5 @@
 # Der Weg zur Datenschutz-sensiblen Internetnutzung
-Es ist bequem: Man schafft sich ein neues Gerät an, meldet sich mit dem Konto des Geräteherstellers ein und innert weniger Minuten ist das Gerät wieder so konfiguriert, wie man seine tägliche digitale Assistenz gerne hat. Die Nutzung des Internets generiert Daten. Um diese Daten zu kontrollieren macht es Sinn, sich bei jeder Nutzung die folgenden Fragen zu stellen:
+Es ist bequem: Man schafft sich ein neues Gerät an, meldet sich mit dem Konto des Geräteherstellers ein und innert weniger Minuten ist das Gerät wieder so konfiguriert, wie man seine tägliche digitale Assistenz gerne hat. Dieses Dokument entsteht Ende 2021 - also mitten in der Covid-19 Pandemie - in einer Zeit, in der man auch Gesundheitsdaten auf dem Handy speichert und diese mit anderen teilt (Zertifikats-App).Umso wichtiger ist es also, die Kontrolle darüber zu haben, wer Zugang zu diesen Daten hat und was damit geschieht. Die Nutzung des Internets generiert auch ganz im Allgemeinen Daten. Um diese Daten zu kontrollieren macht es Sinn, sich bei jeder Nutzung die folgenden Fragen zu stellen:
 
 	1. Welche Daten werden generiert?
 	2. Welche Daten sollen erhalten bleiben?
