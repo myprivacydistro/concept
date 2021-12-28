@@ -5,7 +5,7 @@ Es ist bequem: Man schafft sich ein neues Gerät an, meldet sich mit dem Konto d
 	2. Welche Daten sollen erhalten bleiben?
 	3. Wem vertraue ich diese Daten an?
 	4. Wie wird die Unversehrtheit der Daten gewährleistet?
-	5. In welchen Situationen müssen die Daten verfügbar sein?
+	5. In welchen Situationen sollen die Daten verfügbar sein?
 
 Ziel dieses Konzept ist es, eine Bestandsaufnahme der aktuellen Situation zu machen und herausfinden, welche Schritte unternommen werden können, um die Kontrolle über die eigenen Daten zu haben, dabei aber trotzdem möglichst die Vorteile der heutigen Technologien zu nutzen. Dabei ist es unvermeidlich, eine subjektive Bewertung vorzunehmen, da Vieles verborgen ist oder wissenschaftliche Forschung dazu den Rahmen sprengen würde.
 
@@ -32,7 +32,7 @@ Leider nein. Beim surfen im Internet hilft das insofern, dass die Internetanbiet
 
 ### Wie wird die Unversehrtheit der Daten gewährleistet?
 
-### In welchen Situationen müssen die Daten verfügbar sein?
+### In welchen Situationen sollen die Daten verfügbar sein?
 
 ## Praktische Umsetzung
 
