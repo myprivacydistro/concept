@@ -34,7 +34,7 @@ Leider nein. Beim surfen im Internet hilft das insofern, dass die Internetanbiet
 
 ### In welchen Situationen müssen die Daten verfügbar sein?
 
-## Nutzungsbereiche
+## Praktische Umsetzung
 
 ### VPN
 
