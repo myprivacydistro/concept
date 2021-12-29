@@ -81,3 +81,8 @@ Sicherheit, Kommunikation, Finanzen, Dokumente, Dienstleistungen, Shopping, Unte
 Auswahl zwischen Apple, Google und Android AOSP
 #### Apps
 App Stores, Sicherheit, Kommunikation, Finanzen, Dokumente, Dienstleistungen, Shopping, Unterhaltung
+
+## Leitfaden
+Per "Opt-In Verfahren" soll automatisch eine Anleitung generiert werden in der Schritt für Schritt gezeigt wird, wie die Daten den Wünschen entsprechen geschützt werden können.
+### Bedürfnisse bestimmen
+### Anleitungen generieren
